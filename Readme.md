@@ -7,6 +7,7 @@ Documentation:
 # Points:
 ## Setup environment base solution
 ## IIS Setup
+## optimizely Rollout Feature use in React nextjs
 
 
 
@@ -33,6 +34,47 @@ Documentation:
    Enable Windows feature tools requirments, Add the Host name in etc.
    IIS Create new website, Application Pools --> Project name --> Advanced settings --> .Net CLR Version Select No Managed Code. Edit Permission -->Security Permission to Add the Users.
    dotnet publish for later point to add to the IIS website.
+
+
+
+### optimizely Rollout Feature use in React nextjs
+
+Create free account
+
+https://www.optimizely.com/free-feature-flagging/
+
+create React nextJs
+
+npx create-next-app@latest
+
+npm install --save @optimizely/react-sdk
+
+import { createInstance, OptimizelyFeature, OptimizelyProvider } from '@optimizely/react-sdk'
+
+<OptimizelyProvider 
+        optimizely = {optimizelyConfig}
+        user = {{
+          id: "ExampleId"
+        }}
+        >
+          <OptimizelyFeature feature ="my_feature_flag">
+          {(enabled, variables)=>(
+            enabled ?<>Enabled {variables.test_variable}</> : <>Disabled</>
+          )}
+          </OptimizelyFeature>
+        </OptimizelyProvider>
+        <button onClick={onClick}>
+            Buy Product
+        </button>
+
+
+###
+
+
+
+
+
+
 
 
 
