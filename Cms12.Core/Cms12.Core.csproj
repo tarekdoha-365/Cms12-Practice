@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Media\" />
+    <Folder Include="Blocks\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPiServer.CMS.AspNetCore.Mvc" Version="12.4.0" />
+    <PackageReference Include="EPiServer.CMS.Core" Version="12.4.0" />
+    <PackageReference Include="EPiServer.Framework" Version="12.4.0" />
+  </ItemGroup>
+
+</Project>
