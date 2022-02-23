@@ -149,3 +149,4 @@ C:\EpiServerPractice\Cms12\obj\Debug\net5.0\Cms12.RazorTargetAssemblyInfo.cs
 C:\EpiServerPractice\Cms12\obj\Debug\net5.0\Cms12.Views.pdb
 C:\EpiServerPractice\Cms12\obj\Debug\net5.0\Razor\Views\Homepage\Index.cshtml.g.cs
 C:\EpiServerPractice\Cms12\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\EpiServerPractice\Cms12\bin\Debug\net5.0\License.config
