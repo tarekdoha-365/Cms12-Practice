@@ -6,7 +6,7 @@ Documentation:
 
 # Points:
 ## Setup environment base solution
-## Setup IIS
+## IIS Setup
 
 
 
@@ -30,6 +30,9 @@ Documentation:
 
 ### Setup IIS
 
+   Enable Windows feature tools requirments, Add the Host name in etc.
+   IIS Create new website, Application Pools --> Project name --> Advanced settings --> .Net CLR Version Select No Managed Code. Edit Permission -->Security Permission to Add the Users.
+   dotnet publish for later point to add to the IIS website.
 
 
 
