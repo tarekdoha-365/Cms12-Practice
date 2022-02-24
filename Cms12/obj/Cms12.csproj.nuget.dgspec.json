@@ -47,15 +47,15 @@
           "dependencies": {
             "EPiServer.CMS.AspNetCore.Mvc": {
               "target": "Package",
-              "version": "[12.4.0, )"
+              "version": "[12.3.0, )"
             },
             "EPiServer.CMS.Core": {
               "target": "Package",
-              "version": "[12.4.0, )"
+              "version": "[12.3.0, )"
             },
             "EPiServer.Framework": {
               "target": "Package",
-              "version": "[12.4.0, )"
+              "version": "[12.3.0, )"
             }
           },
           "imports": [
@@ -128,15 +128,11 @@
             },
             "EPiServer.CMS.AspNetCore.Mvc": {
               "target": "Package",
-              "version": "[12.4.0, )"
-            },
-            "EPiServer.CMS.Core": {
-              "target": "Package",
-              "version": "[12.4.0, )"
+              "version": "[12.3.0, )"
             },
             "EPiServer.Framework": {
               "target": "Package",
-              "version": "[12.4.0, )"
+              "version": "[12.3.0, )"
             }
           },
           "imports": [
