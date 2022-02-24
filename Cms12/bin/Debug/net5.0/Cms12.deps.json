@@ -35,9 +35,8 @@
         "dependencies": {
           "Cms12.Core": "1.0.0",
           "EPiServer.CMS": "12.3.1",
-          "EPiServer.CMS.AspNetCore.Mvc": "12.4.0",
-          "EPiServer.CMS.Core": "12.4.0",
-          "EPiServer.Framework": "12.4.0",
+          "EPiServer.CMS.AspNetCore.Mvc": "12.3.0",
+          "EPiServer.Framework": "12.3.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions.Reference": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies.Reference": "5.0.0.0",
@@ -430,16 +429,16 @@
           "lib/net5.0/EPiServer.CMS.dll": {}
         }
       },
-      "EPiServer.CMS.AspNetCore/12.4.0": {
+      "EPiServer.CMS.AspNetCore/12.3.0": {
         "dependencies": {
-          "EPiServer.CMS.Core": "12.4.0",
-          "EPiServer.Framework.AspNetCore": "12.4.0",
+          "EPiServer.CMS.Core": "12.3.0",
+          "EPiServer.Framework.AspNetCore": "12.3.0",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "5.0.0"
         },
         "runtime": {
           "lib/net5.0/EPiServer.Cms.AspNetCore.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           }
         },
         "compile": {
@@ -448,7 +447,7 @@
       },
       "EPiServer.CMS.AspNetCore.HtmlHelpers/12.3.0": {
         "dependencies": {
-          "EPiServer.CMS.AspNetCore.Mvc": "12.4.0"
+          "EPiServer.CMS.AspNetCore.Mvc": "12.3.0"
         },
         "runtime": {
           "lib/net5.0/EPiServer.Cms.AspNetCore.HtmlHelpers.Views.dll": {
@@ -465,74 +464,74 @@
           "lib/net5.0/EPiServer.Cms.AspNetCore.HtmlHelpers.dll": {}
         }
       },
-      "EPiServer.CMS.AspNetCore.Mvc/12.4.0": {
+      "EPiServer.CMS.AspNetCore.Mvc/12.3.0": {
         "dependencies": {
-          "EPiServer.CMS.AspNetCore.Routing": "12.4.0"
+          "EPiServer.CMS.AspNetCore.Routing": "12.3.0"
         },
         "runtime": {
           "lib/net5.0/EPiServer.Cms.AspNetCore.Mvc.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           }
         },
         "compile": {
           "lib/net5.0/EPiServer.Cms.AspNetCore.Mvc.dll": {}
         }
       },
-      "EPiServer.CMS.AspNetCore.Routing/12.4.0": {
+      "EPiServer.CMS.AspNetCore.Routing/12.3.0": {
         "dependencies": {
-          "EPiServer.CMS.AspNetCore.Templating": "12.4.0"
+          "EPiServer.CMS.AspNetCore.Templating": "12.3.0"
         },
         "runtime": {
           "lib/net5.0/EPiServer.Cms.AspNetCore.Routing.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           }
         },
         "compile": {
           "lib/net5.0/EPiServer.Cms.AspNetCore.Routing.dll": {}
         }
       },
-      "EPiServer.CMS.AspNetCore.Templating/12.4.0": {
+      "EPiServer.CMS.AspNetCore.Templating/12.3.0": {
         "dependencies": {
-          "EPiServer.CMS.AspNetCore": "12.4.0"
+          "EPiServer.CMS.AspNetCore": "12.3.0"
         },
         "runtime": {
           "lib/net5.0/EPiServer.Cms.AspNetCore.Templating.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           }
         },
         "compile": {
           "lib/net5.0/EPiServer.Cms.AspNetCore.Templating.dll": {}
         }
       },
-      "EPiServer.CMS.Core/12.4.0": {
+      "EPiServer.CMS.Core/12.3.0": {
         "dependencies": {
           "Castle.Core": "4.4.1",
           "Castle.Windsor": "5.1.1",
-          "EPiServer.Framework": "12.4.0",
+          "EPiServer.Framework": "12.3.0",
           "MailKit": "2.10.1",
-          "SixLabors.ImageSharp": "1.0.4",
+          "SixLabors.ImageSharp": "1.0.3",
           "System.IO.Packaging": "5.0.0",
           "System.Threading.Tasks.Dataflow": "5.0.0"
         },
         "runtime": {
           "lib/net5.0/EPiServer.Enterprise.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           },
           "lib/net5.0/EPiServer.ImageLibrary.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           },
           "lib/net5.0/EPiServer.LinkAnalyzer.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           },
           "lib/net5.0/EPiServer.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           }
         },
         "compile": {
@@ -602,7 +601,7 @@
       },
       "EPiServer.CMS.UI.Core/12.3.1": {
         "dependencies": {
-          "EPiServer.CMS.AspNetCore.Templating": "12.4.0",
+          "EPiServer.CMS.AspNetCore.Templating": "12.3.0",
           "Microsoft.AspNetCore.Mvc.Razor.Extensions": "5.0.0",
           "System.ServiceModel.Syndication": "5.0.0"
         },
@@ -679,7 +678,7 @@
           "lib/net5.0/EPiServer.Cms.UI.VisitorGroups.dll": {}
         }
       },
-      "EPiServer.Framework/12.4.0": {
+      "EPiServer.Framework/12.3.0": {
         "dependencies": {
           "Microsoft.Data.SqlClient": "3.0.0",
           "Newtonsoft.Json": "12.0.3",
@@ -691,28 +690,28 @@
         },
         "runtime": {
           "lib/net5.0/EPiServer.ApplicationModules.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           },
           "lib/net5.0/EPiServer.Data.Cache.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           },
           "lib/net5.0/EPiServer.Data.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           },
           "lib/net5.0/EPiServer.Events.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           },
           "lib/net5.0/EPiServer.Framework.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           },
           "lib/net5.0/EPiServer.Licensing.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           }
         },
         "compile": {
@@ -724,17 +723,17 @@
           "lib/net5.0/EPiServer.Licensing.dll": {}
         }
       },
-      "EPiServer.Framework.AspNetCore/12.4.0": {
+      "EPiServer.Framework.AspNetCore/12.3.0": {
         "dependencies": {
-          "EPiServer.Framework": "12.4.0",
+          "EPiServer.Framework": "12.3.0",
           "Microsoft.Extensions.DependencyInjection": "5.0.0",
           "Microsoft.Extensions.DependencyModel": "5.0.0",
           "Microsoft.Extensions.FileProviders.Abstractions": "5.0.0"
         },
         "runtime": {
           "lib/net5.0/EPiServer.Framework.AspNetCore.dll": {
-            "assemblyVersion": "12.4.0.0",
-            "fileVersion": "12.4.0.0"
+            "assemblyVersion": "12.3.0.0",
+            "fileVersion": "12.3.0.0"
           }
         },
         "compile": {
@@ -743,7 +742,7 @@
       },
       "EPiServer.Hosting/12.3.0": {
         "dependencies": {
-          "EPiServer.Framework": "12.4.0",
+          "EPiServer.Framework": "12.3.0",
           "Microsoft.Extensions.Caching.Abstractions": "5.0.0",
           "Microsoft.Extensions.Caching.Memory": "5.0.0",
           "Microsoft.Extensions.DependencyInjection": "5.0.0",
@@ -1588,11 +1587,11 @@
       "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
-      "SixLabors.ImageSharp/1.0.4": {
+      "SixLabors.ImageSharp/1.0.3": {
         "runtime": {
           "lib/netcoreapp3.1/SixLabors.ImageSharp.dll": {
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.4.0"
+            "fileVersion": "1.0.3.0"
           }
         },
         "compile": {
@@ -2426,9 +2425,9 @@
       },
       "Cms12.Core/1.0.0": {
         "dependencies": {
-          "EPiServer.CMS.AspNetCore.Mvc": "12.4.0",
-          "EPiServer.CMS.Core": "12.4.0",
-          "EPiServer.Framework": "12.4.0"
+          "EPiServer.CMS.AspNetCore.Mvc": "12.3.0",
+          "EPiServer.CMS.Core": "12.3.0",
+          "EPiServer.Framework": "12.3.0"
         },
         "runtime": {
           "Cms12.Core.dll": {}
@@ -4178,12 +4177,12 @@
       "path": "episerver.cms/12.3.1",
       "hashPath": "episerver.cms.12.3.1.nupkg.sha512"
     },
-    "EPiServer.CMS.AspNetCore/12.4.0": {
+    "EPiServer.CMS.AspNetCore/12.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-BFE4CP75K/tzuHGcqpS4E5zpqSB2a7QWC+i0Zdj0eHJXeWR2BsNH/qTUjfxlXv1/yNQvSCXrNhBmG/C+3EfqwA==",
-      "path": "episerver.cms.aspnetcore/12.4.0",
-      "hashPath": "episerver.cms.aspnetcore.12.4.0.nupkg.sha512"
+      "sha512": "sha512-Ch+UsMVzdhih9AVVzD7aoAeAVpMaSbHwK9CcTkghQ3fj5jviBg79uCvGnyanvyuly5bdDzyFbgSpb7VjxDXVFg==",
+      "path": "episerver.cms.aspnetcore/12.3.0",
+      "hashPath": "episerver.cms.aspnetcore.12.3.0.nupkg.sha512"
     },
     "EPiServer.CMS.AspNetCore.HtmlHelpers/12.3.0": {
       "type": "package",
@@ -4192,33 +4191,33 @@
       "path": "episerver.cms.aspnetcore.htmlhelpers/12.3.0",
       "hashPath": "episerver.cms.aspnetcore.htmlhelpers.12.3.0.nupkg.sha512"
     },
-    "EPiServer.CMS.AspNetCore.Mvc/12.4.0": {
+    "EPiServer.CMS.AspNetCore.Mvc/12.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-DLBGoE0uygVQ9eCZQXlFwsFOf8tOtJbl+Bll+L07CQRZ2w2OGaf5tojF9xLd9BCCDrLv+fz3IOIu3JQiYmSLyw==",
-      "path": "episerver.cms.aspnetcore.mvc/12.4.0",
-      "hashPath": "episerver.cms.aspnetcore.mvc.12.4.0.nupkg.sha512"
+      "sha512": "sha512-9+WKi9EWMQZ9TJjAuP5x8FP3F21lYZmODE4xS51z520weyo7XRvjdweXJO4gXVv8XAy8bEjJSUsYhV9pGE/eyA==",
+      "path": "episerver.cms.aspnetcore.mvc/12.3.0",
+      "hashPath": "episerver.cms.aspnetcore.mvc.12.3.0.nupkg.sha512"
     },
-    "EPiServer.CMS.AspNetCore.Routing/12.4.0": {
+    "EPiServer.CMS.AspNetCore.Routing/12.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-RTBrfd9hLOvOlnzg9WHZcSvXVwtTLfQW2lRLQsVbX1R3Ek/hcvbVh5vjhy+MrzKvjw9zdYe8FX09kYEE9kNqIA==",
-      "path": "episerver.cms.aspnetcore.routing/12.4.0",
-      "hashPath": "episerver.cms.aspnetcore.routing.12.4.0.nupkg.sha512"
+      "sha512": "sha512-Z9MARF2/3kp8xamtpxe66HvwO+nztkkGJCfiEQ0AWWBndKluEyGGqSDsZwr4Ke7a629iXeH7eHR7W1LCq1kaow==",
+      "path": "episerver.cms.aspnetcore.routing/12.3.0",
+      "hashPath": "episerver.cms.aspnetcore.routing.12.3.0.nupkg.sha512"
     },
-    "EPiServer.CMS.AspNetCore.Templating/12.4.0": {
+    "EPiServer.CMS.AspNetCore.Templating/12.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-+WcIj6d7+0PS1eS1yMEAMeIkWW2H1sYpRYSQ4Q60K75wpZmW13/Q7KsG2BdNR1QJcwxDzF8CE8VXz1pgaoC/dw==",
-      "path": "episerver.cms.aspnetcore.templating/12.4.0",
-      "hashPath": "episerver.cms.aspnetcore.templating.12.4.0.nupkg.sha512"
+      "sha512": "sha512-56pHsR1vbLdcO4dMWoaZ0wZ1ylz66H9eQFJc9E5F8bFgV13K2pFWVX4a6kLOtcidTuag9Yed45Ie7AZpN7i2fg==",
+      "path": "episerver.cms.aspnetcore.templating/12.3.0",
+      "hashPath": "episerver.cms.aspnetcore.templating.12.3.0.nupkg.sha512"
     },
-    "EPiServer.CMS.Core/12.4.0": {
+    "EPiServer.CMS.Core/12.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-mse75rDvemvHOllxL9iZPMiM4LhCwk8A5qijDCq17SSfnLJQxW/Va9r2GJ88fzw14VEugM4ns7RLRBgcOyuiyQ==",
-      "path": "episerver.cms.core/12.4.0",
-      "hashPath": "episerver.cms.core.12.4.0.nupkg.sha512"
+      "sha512": "sha512-5BwOZ4Gs8Z9RrlXjRr5IRQt8ebFTwO1JZnoOy7zIbaDfKt1CmmmMxoibp+W1GZVm3QgKELxiwdf2ESHSNv/X4w==",
+      "path": "episerver.cms.core/12.3.0",
+      "hashPath": "episerver.cms.core.12.3.0.nupkg.sha512"
     },
     "EPiServer.CMS.TinyMce/3.1.0": {
       "type": "package",
@@ -4269,19 +4268,19 @@
       "path": "episerver.cms.ui.visitorgroups/12.3.1",
       "hashPath": "episerver.cms.ui.visitorgroups.12.3.1.nupkg.sha512"
     },
-    "EPiServer.Framework/12.4.0": {
+    "EPiServer.Framework/12.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-CcJoYT3GzCntvUPIhrZWDD8GXrevJlmQwnmzFZ2nGrGg0K0+EeU085kfpF/KFQkjr4R6tng5nOWmn0uRjfT1nQ==",
-      "path": "episerver.framework/12.4.0",
-      "hashPath": "episerver.framework.12.4.0.nupkg.sha512"
+      "sha512": "sha512-92mWfA3YDIi5Os33X4SXK0LC79cV5o+n3Yp2jj+cqRK9YO136H4CCVJz7amcVUHop/4Q27PnW+ihijD7NyqGkg==",
+      "path": "episerver.framework/12.3.0",
+      "hashPath": "episerver.framework.12.3.0.nupkg.sha512"
     },
-    "EPiServer.Framework.AspNetCore/12.4.0": {
+    "EPiServer.Framework.AspNetCore/12.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-BVit09P9KMg85wzs11tsBOp9AFA9rraKd0jQYmXmUtP2liEGFBwcN2r1vBLbr7j13r8ULaATWvtRHTiIuub4tQ==",
-      "path": "episerver.framework.aspnetcore/12.4.0",
-      "hashPath": "episerver.framework.aspnetcore.12.4.0.nupkg.sha512"
+      "sha512": "sha512-uIJ63QX6w1Qi80kdbmUGDXgQYA6sRjYq6+FQNenh2qYWEDzCrztQrHe6BAyzsMOG6eJDvn6nCNDSds37Pq4djQ==",
+      "path": "episerver.framework.aspnetcore/12.3.0",
+      "hashPath": "episerver.framework.aspnetcore.12.3.0.nupkg.sha512"
     },
     "EPiServer.Hosting/12.3.0": {
       "type": "package",
@@ -4892,12 +4891,12 @@
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
-    "SixLabors.ImageSharp/1.0.4": {
+    "SixLabors.ImageSharp/1.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-H2rPiEr2ddBOltOuqRYhpLBAsQXDAhbzMMhhuksnBG2oefup1MXMchALe7yYkKJksNbtxbZHKeM6dn/68I75qw==",
-      "path": "sixlabors.imagesharp/1.0.4",
-      "hashPath": "sixlabors.imagesharp.1.0.4.nupkg.sha512"
+      "sha512": "sha512-oRmZEITad+0tL22ZfAbLps6doDV+Z0/oH0dtXLpIBwn1sgai3QxxDQPjohHiDeUp/CTzRKVrFFbc4ZITnL2UBg==",
+      "path": "sixlabors.imagesharp/1.0.3",
+      "hashPath": "sixlabors.imagesharp.1.0.3.nupkg.sha512"
     },
     "System.AppContext/4.3.0": {
       "type": "package",

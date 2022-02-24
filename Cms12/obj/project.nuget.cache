@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hdRsmIPFGZOOPdmeGrIVHIZ/cw55Mxx/sbCj+89OoAv4TsBfC13+Z+1jbQSENMtT6k4RLNjBbiFWas+j7HxsoA==",
+  "dgSpecHash": "kKSiZwAlp5d/B5PZy9UIfAX4cTV/TCYwOHwj+/n4PgXbM12bzrJtQyDKfZM0x3OIisCGBpzJB1xzxo4vbZ4fMA==",
   "success": true,
   "projectFilePath": "C:\\EpiServerPractice\\Cms12\\Cms12.csproj",
   "expectedPackageFiles": [
@@ -9,12 +9,12 @@
     "C:\\Users\\DELL\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\castle.windsor\\5.1.1\\castle.windsor.5.1.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms\\12.3.1\\episerver.cms.12.3.1.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.aspnetcore\\12.4.0\\episerver.cms.aspnetcore.12.4.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.aspnetcore\\12.3.0\\episerver.cms.aspnetcore.12.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.aspnetcore.htmlhelpers\\12.3.0\\episerver.cms.aspnetcore.htmlhelpers.12.3.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.aspnetcore.mvc\\12.4.0\\episerver.cms.aspnetcore.mvc.12.4.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.aspnetcore.routing\\12.4.0\\episerver.cms.aspnetcore.routing.12.4.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.aspnetcore.templating\\12.4.0\\episerver.cms.aspnetcore.templating.12.4.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.core\\12.4.0\\episerver.cms.core.12.4.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.aspnetcore.mvc\\12.3.0\\episerver.cms.aspnetcore.mvc.12.3.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.aspnetcore.routing\\12.3.0\\episerver.cms.aspnetcore.routing.12.3.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.aspnetcore.templating\\12.3.0\\episerver.cms.aspnetcore.templating.12.3.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.core\\12.3.0\\episerver.cms.core.12.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.tinymce\\3.1.0\\episerver.cms.tinymce.3.1.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.ui\\12.3.1\\episerver.cms.ui.12.3.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.ui.admin\\12.3.1\\episerver.cms.ui.admin.12.3.1.nupkg.sha512",
@@ -22,8 +22,8 @@
     "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.ui.core\\12.3.1\\episerver.cms.ui.core.12.3.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.ui.settings\\12.3.1\\episerver.cms.ui.settings.12.3.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\episerver.cms.ui.visitorgroups\\12.3.1\\episerver.cms.ui.visitorgroups.12.3.1.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\episerver.framework\\12.4.0\\episerver.framework.12.4.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\episerver.framework.aspnetcore\\12.4.0\\episerver.framework.aspnetcore.12.4.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\episerver.framework\\12.3.0\\episerver.framework.12.3.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\episerver.framework.aspnetcore\\12.3.0\\episerver.framework.aspnetcore.12.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\episerver.hosting\\12.3.0\\episerver.hosting.12.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\mailkit\\2.10.1\\mailkit.2.10.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
@@ -111,7 +111,7 @@
     "C:\\Users\\DELL\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sixlabors.imagesharp\\1.0.3\\sixlabors.imagesharp.1.0.3.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
@@ -204,26 +204,5 @@
     "C:\\Users\\DELL\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: EPiServer.Hosting 12.3.0 requires EPiServer.Framework (= 12.3.0) but version EPiServer.Framework 12.4.0 was resolved.",
-      "libraryId": "EPiServer.Framework",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    },
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: EPiServer.CMS.AspNetCore.HtmlHelpers 12.3.0 requires EPiServer.CMS.AspNetCore.Mvc (= 12.3.0) but version EPiServer.CMS.AspNetCore.Mvc 12.4.0 was resolved.",
-      "libraryId": "EPiServer.CMS.AspNetCore.Mvc",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  "logs": []
 }
