@@ -10,9 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="EPiServer.CMS.AspNetCore.Mvc" Version="12.4.0" />
-    <PackageReference Include="EPiServer.CMS.Core" Version="12.4.0" />
-    <PackageReference Include="EPiServer.Framework" Version="12.4.0" />
+    <PackageReference Include="EPiServer.CMS.AspNetCore.Mvc" Version="12.3.0" />
+    <PackageReference Include="EPiServer.CMS.Core" Version="12.3.0" />
+    <PackageReference Include="EPiServer.Framework" Version="12.3.0" />
   </ItemGroup>
 
 </Project>

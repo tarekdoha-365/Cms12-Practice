@@ -1,4 +1,5 @@
 C:\EpiServerPractice\Cms12\bin\Debug\net5.0\publish\Cms12.exe
+C:\EpiServerPractice\Cms12\bin\Debug\net5.0\publish\License.config
 C:\EpiServerPractice\Cms12\bin\Debug\net5.0\publish\appsettings.Development.json
 C:\EpiServerPractice\Cms12\bin\Debug\net5.0\publish\appsettings.json
 C:\EpiServerPractice\Cms12\bin\Debug\net5.0\publish\modules\_protected\EPiServer.Cms.UI.VisitorGroups\EPiServer.Cms.UI.VisitorGroups.zip
@@ -119,3 +120,7 @@ C:\EpiServerPractice\Cms12\bin\Debug\net5.0\publish\runtimes\win-x86\native\Micr
 C:\EpiServerPractice\Cms12\bin\Debug\net5.0\publish\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\EpiServerPractice\Cms12\bin\Debug\net5.0\publish\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\EpiServerPractice\Cms12\bin\Debug\net5.0\publish\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\EpiServerPractice\Cms12\bin\Debug\net5.0\publish\Cms12.Core.dll
+C:\EpiServerPractice\Cms12\bin\Debug\net5.0\publish\Cms12.Core.pdb
+C:\EpiServerPractice\Cms12\bin\Debug\net5.0\publish\Cms12.Views.dll
+C:\EpiServerPractice\Cms12\bin\Debug\net5.0\publish\Cms12.Views.pdb

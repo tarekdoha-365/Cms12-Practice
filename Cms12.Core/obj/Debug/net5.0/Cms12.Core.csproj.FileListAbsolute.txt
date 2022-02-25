@@ -2,6 +2,7 @@ C:\EpiServerPractice\Cms12.Core\bin\Debug\net5.0\Cms12.Core.deps.json
 C:\EpiServerPractice\Cms12.Core\bin\Debug\net5.0\Cms12.Core.dll
 C:\EpiServerPractice\Cms12.Core\bin\Debug\net5.0\ref\Cms12.Core.dll
 C:\EpiServerPractice\Cms12.Core\bin\Debug\net5.0\Cms12.Core.pdb
+C:\EpiServerPractice\Cms12.Core\obj\Debug\net5.0\Cms12.Core.csproj.AssemblyReference.cache
 C:\EpiServerPractice\Cms12.Core\obj\Debug\net5.0\Cms12.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\EpiServerPractice\Cms12.Core\obj\Debug\net5.0\Cms12.Core.AssemblyInfoInputs.cache
 C:\EpiServerPractice\Cms12.Core\obj\Debug\net5.0\Cms12.Core.AssemblyInfo.cs

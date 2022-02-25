@@ -14,7 +14,7 @@
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgEPiServer_Framework Condition=" '$(PkgEPiServer_Framework)' == '' ">C:\Users\DELL\.nuget\packages\episerver.framework\12.4.0</PkgEPiServer_Framework>
-    <PkgEPiServer_CMS_Core Condition=" '$(PkgEPiServer_CMS_Core)' == '' ">C:\Users\DELL\.nuget\packages\episerver.cms.core\12.4.0</PkgEPiServer_CMS_Core>
+    <PkgEPiServer_Framework Condition=" '$(PkgEPiServer_Framework)' == '' ">C:\Users\DELL\.nuget\packages\episerver.framework\12.3.0</PkgEPiServer_Framework>
+    <PkgEPiServer_CMS_Core Condition=" '$(PkgEPiServer_CMS_Core)' == '' ">C:\Users\DELL\.nuget\packages\episerver.cms.core\12.3.0</PkgEPiServer_CMS_Core>
   </PropertyGroup>
 </Project>
